@@ -16,13 +16,9 @@ This is a webpage that has GitHub links to my past projects and tells people a l
 
 No known issues.
 
-## Support and contact details
+## Site link
 
-If you want to help me improve this site you can just email me at alexmurray93@hotmail.com.
-
-## Technologies used
-
-Bootstrap
+ReconScout77.github.io/portfolio
 
 ### License
 
