@@ -11,12 +11,15 @@
   background-color: #cceeff;
 }
 
-.image {
-  float: right;
+.wow {
+  font-style: italic;
+  font-weight: bold;
 }
 
-.about {
-
+.image {
+  float: right;
+  height: 205px;
+  width: 315px;
 }
 
 .moreInfo h3 {
